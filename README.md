@@ -2,6 +2,8 @@
 Программа для администрирования базы данных мебельного магазина "Мебельный Дворик"  
 A database administration tool for furniture store "Mebelniy Dvorik"
 
+Просмотр приложения/Preview of the application: https://furniture-store-dba-front.herokuapp.com/ (Загрузка может занять некоторое время/It might take some time to load)
+
 ## Описание/Description
 Приложение направлено на совершение эксплуатации базы данных для сотрудников компании не имеющих опыт работы с более сложными инструментами визуального проектирования баз данных (пример: MySQL Workbench).  
 Для создания приложения был использован следующий стэк: Sqlite3, Express.js, React.js, Node.js.
